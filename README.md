@@ -1,3 +1,3 @@
 OUTPUT LINK
 
-https://suwarna-cloud.github.io/ORIGAMI-WEBSITE-II/
+https://suyash-prog04.github.io/-ORIGAMI-WEBSITE-II/
